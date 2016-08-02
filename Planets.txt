@@ -1,0 +1,17 @@
+410 350 Mars,Venus
+600 250 Mars,Earth
+1000 400 Mars,Moon
+500 350 Mars,Saturn
+450 250 Mars,Pluto
+400 350 Mars,Jupiter
+550 300 Earth,Mercury
+500 200 Earth,Moon
+600 400 Earth,Venus
+1000 500 Mercury,Venus
+1200 400 Mercury,Moon
+350 250 Moon,Saturn
+1100 500 Saturn,Pluto
+1000 500 Pluto,Jupiter
+750 400 Pluto,Neptune
+1800 700 Jupiter,Neptune
+950 600 Jupiter,Venus

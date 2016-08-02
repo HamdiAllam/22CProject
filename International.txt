@@ -1,0 +1,18 @@
+200 1200 Beijing,Seoul
+450 1400 Beijing,Tokyo
+100 600 Beijing,Shanghai
+600 1500 Beijing,Sydney 
+1200 2500 Beijing,Dubai
+600 1400 Beijing,Egypt
+1300 2700 Beijing,London
+150 700 Seoul,Tokyo
+200 1700 Tokyo,Shanghai
+800 3500 Tokyo,San Fransisco
+1200 4500 San Fransisco,Shanghai
+400 1200 Shanghai,Sydney
+300 1400 Sydney,Dubai
+500 1000 Dubai,Egypt
+1500 2500 Dubai,Paris
+400 1600 Egypt,London
+850 2000 Egypt,Paris
+300 700 London,Paris

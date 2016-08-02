@@ -1,0 +1,21 @@
+700 1700 Alaska,San Fransisco
+1000 2000 Alaska,Los Angels
+800 1000 Hawaii,San Fransisco
+200 680 San Fransisco,Los Angels
+500 3000 San Fransisco,Toronto
+1000 5000 San Fransisco,New York
+80 50 San Fransisco,San Jose
+450 1500 San Jose,Utah
+400 500 San Jose,Dallas
+300 1000 Los Angels,Dallas
+900 700 Dallas,Miami
+350 400 Dallas,Atlanta
+450 600 Atlanta,Miami
+300 400 Pittsburg,Utah
+600 800 Pittsburg,Boston
+800 1000 Pittsburg,Dallas
+700 1000 Boston,Chicago
+600 800 Chicago,New York
+600 900 Chicago,Miami
+500 1200 Miami,Philadelphia
+300 450 Philadelphia,New York
